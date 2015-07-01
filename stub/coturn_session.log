@@ -1,0 +1,28 @@
+
+    1) id=001000000000000384, user <1433919568:9666005>:
+      realm: north.gov
+      started 7 secs ago
+      expiring in 770 secs
+      client protocol UDP, relay protocol UDP
+      client addr 127.0.0.1:36048, server addr 127.0.0.1:3478
+      relay addr 127.0.0.1:58726
+      fingerprints enforced: ON
+      mobile: OFF
+      Max throughput: 500000 bytes per second
+      usage: rp=3, rb=316, sp=2, sb=252
+       rate: r=0, s=0, total=0 (bytes per sec)
+
+    2) id=000000000000000355, user <1433919558:9666005>:
+      realm: north.gov
+      started 17 secs ago
+      expiring in 760 secs
+      client protocol UDP, relay protocol UDP
+      client addr 127.0.0.1:37495, server addr 127.0.0.1:3478
+      relay addr 127.0.0.1:62200
+      fingerprints enforced: ON
+      mobile: OFF
+      Max throughput: 500000 bytes per second
+      usage: rp=3, rb=316, sp=2, sb=252
+       rate: r=0, s=0, total=0 (bytes per sec)
+
+  Total sessions: 2
